@@ -1,0 +1,59 @@
+<html>
+    <body>
+        <header>
+            <center>
+                <h1>Dance</h1>
+            </center>
+            <nav>
+                <ul>
+                    <li><a href="#sec1">Section 1</a></li>
+                    <li><a href="#sec2">Section 2</a></li>
+                </ul>
+            </nav>
+        </header>
+        <div>
+            <section id="sec1">
+                <b>Classical Dance</b>
+                <figure>
+                    <img src="download.jpg">
+                </figure>
+                <article>
+                    <p>
+                        Indian classical dance, or Shastriya Nritya, is an umbrella term for different regionally-specific Indian classical
+                        dance traditions, rooted in predominantly Hindu musical theatre performance,[1][2][3] the theory and practice of which
+                        can be traced to the Sanskrit text Natya Shastra.[4][5][6] The number of Indian classical dance styles ranges from six
+                        to eight to twelve, or more, depending on the source and scholar;[7][8] the main organisation for Indian arts
+                        preservation, the Sangeet Natak Academy recognizes eight: Bharatanatyam, Kathak, Kuchipudi, Odissi, Kathakali, Sattriya,
+                        Manipuri and Mohiniyattam.[9] Additionally, the Indian Ministry of Culture includes Chhau in its list, recognising nine
+                        total styles.[10] Scholars such as Drid Williams add Chhau, Yakshagana and Bhagavata Mela to the list.[11][3] Each dance
+                        tradition originates and comes from a different state and/or region of India; for example, Bharatanatyam is from Tamil
+                        Nadu in the south of India, Odissi is from the east coast state of Odisha, and Manipuri is from the northeastern state
+                        of Manipur. The music associated with these different dance performances consists many compositions in Hindi, Malayalam,
+                        Meitei (Manipuri), Sanskrit, Tamil, Odia, Telugu, Assamese, and many other Indian-Subcontinent languages; they represent
+                        a unity of core ideas and a diversity of styles, costumes, and expression.
+
+                    </p>
+                </article>
+            </section>
+            <section id="sec2">
+                <b>Belly Dance</b>
+                <figure>
+                    <img src="images.jpg">
+                </figure>
+                <article>
+                    <p>
+                        Belly dance (Arabic: رقص شرقي, romanized: Raqs sharqi, lit. 'oriental dance') is a Middle Eastern dance[1][2][3][4][5]
+                        that originated in Egypt,[6] which features movements of the hips and torso.[2] A Western-coined exonym, it is also
+                        referred to as Middle Eastern dance or Arabic dance.[7][8][9] It has evolved to take many different forms depending on
+                        the country and region, both in costume and dance style; with the styles and costumes of Egypt being the most recognized
+                        worldwide due to Egyptian cinema.[10][11] Belly dancing in its various forms and styles is popular across the globe
+                        where it is taught by a multitude of schools of dance.
+                    </p>
+                </article>
+            </section>
+        </div>
+        <footer>
+            My favourite dance
+        </footer>
+    </body>
+</html>
